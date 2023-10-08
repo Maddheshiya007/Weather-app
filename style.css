@@ -95,3 +95,9 @@ body{
     justify-content: center;
     
 }
+
+.error{
+    color: white;
+    margin-bottom: 2rem;
+    display: none;
+}
